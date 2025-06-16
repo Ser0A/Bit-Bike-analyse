@@ -15,13 +15,12 @@ In dit project analyseer ik het gebruik van fietsen binnen Bit-Bikes, een fictie
 
 ## 📊 Data
 
-De datasets zijn te groot (>25MB) om direct te uploaden naar GitHub. Je kunt ze zelf downloaden via onderstaande links:
+Je kunt ze zelf downloaden via onderstaande links:
 
 - [202007-divvy-tripdata.csv](https://divvy-tripdata.s3.amazonaws.com/202007-divvy-tripdata.csv)
 - [202107-divvy-tripdata.csv](https://divvy-tripdata.s3.amazonaws.com/202107-divvy-tripdata.csv)
 - [202207-divvy-tripdata.csv](https://divvy-tripdata.s3.amazonaws.com/202207-divvy-tripdata.csv)
 
-Plaats de bestanden in dezelfde map als de notebook voor correcte werking.
 
 ## 🛠️ Tools en technieken
 
